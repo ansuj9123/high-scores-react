@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.female{
+  background-color:rgb(183, 127, 136) ;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.male{
+  background-color: rgb(106, 106, 221);
+  font-size: 20px;
+  padding: 10px;
+}
+.name-container{
+display: flex;
+flex-wrap: wrap;
+gap: 10px;
+padding: 20px;
+
+}

@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import allCountryScores from './score';
+import Babylist from './Babylist';
 
 function App() {
   return (
     <div className="App">
-    <h1>This is task for this Assignment</h1>
+    <h1>Baby List</h1>
+    <Babylist  />
     </div>
   );
 }
